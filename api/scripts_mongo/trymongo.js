@@ -4,7 +4,7 @@
 
 const { MongoClient } = require('mongodb');
 
-const url = 'mongodb+srv://nishusingh2528:mongo2528@clusternew.wv18g.mongodb.net/productList?retryWrites=true&w=majority';
+const url = 'mongodb+srv://nishusingh:mongodb@cluster0.9duxz.mongodb.net/productList?retryWrites=true&w=majority';
 
 function testWithCallbacks(callback) {
   console.log('\n--- testWithCallbacks ---');
